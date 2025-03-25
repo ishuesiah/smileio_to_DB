@@ -1,0 +1,6 @@
+ name: referral-app
+type: node
+static_dirs:
+  - public
+start: node index.js
+
